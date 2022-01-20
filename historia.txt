@@ -3,4 +3,7 @@ esta es la historia de freddy vega
 
 tiene 32 años y nacio en colombia 
 
-hot hablaremos de su historia
+hot hablaremos de su histori
+
+
+este es el segundo cambio, el cual contendra una informacion para validar el tema del checkout
